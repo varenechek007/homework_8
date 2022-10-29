@@ -1,0 +1,15 @@
+/Users/uliasarapulova/homework/hw8/zadacha56/obj/Debug/net6.0/zadacha56.csproj.AssemblyReference.cache
+/Users/uliasarapulova/homework/hw8/zadacha56/obj/Debug/net6.0/zadacha56.GeneratedMSBuildEditorConfig.editorconfig
+/Users/uliasarapulova/homework/hw8/zadacha56/obj/Debug/net6.0/zadacha56.AssemblyInfoInputs.cache
+/Users/uliasarapulova/homework/hw8/zadacha56/obj/Debug/net6.0/zadacha56.AssemblyInfo.cs
+/Users/uliasarapulova/homework/hw8/zadacha56/obj/Debug/net6.0/zadacha56.csproj.CoreCompileInputs.cache
+/Users/uliasarapulova/homework/hw8/zadacha56/bin/Debug/net6.0/zadacha56
+/Users/uliasarapulova/homework/hw8/zadacha56/bin/Debug/net6.0/zadacha56.deps.json
+/Users/uliasarapulova/homework/hw8/zadacha56/bin/Debug/net6.0/zadacha56.runtimeconfig.json
+/Users/uliasarapulova/homework/hw8/zadacha56/bin/Debug/net6.0/zadacha56.dll
+/Users/uliasarapulova/homework/hw8/zadacha56/bin/Debug/net6.0/zadacha56.pdb
+/Users/uliasarapulova/homework/hw8/zadacha56/obj/Debug/net6.0/zadacha56.dll
+/Users/uliasarapulova/homework/hw8/zadacha56/obj/Debug/net6.0/refint/zadacha56.dll
+/Users/uliasarapulova/homework/hw8/zadacha56/obj/Debug/net6.0/zadacha56.pdb
+/Users/uliasarapulova/homework/hw8/zadacha56/obj/Debug/net6.0/zadacha56.genruntimeconfig.cache
+/Users/uliasarapulova/homework/hw8/zadacha56/obj/Debug/net6.0/ref/zadacha56.dll
